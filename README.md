@@ -65,7 +65,22 @@ Open http://localhost:5173
 - Not yet validated with real students or employers.
 
 ## Team
-[Name 1], [Name 2], ... | [College name]
+Edu2Emp
+Ramyashree A S
+Prerna Uday
+Preethi H H
+Nisarga R
 
 ## Links
 Docs: [link] | Demo video: [add before the 27th]
+
+skillfolio/
+├── README.md
+├── backend/
+│   ├── main.py
+│   ├── task_001.py          # Starter code + reference logic
+│   ├── tests_round1.py      # Initial bug-fix tests
+│   ├── tests_round2.py      # Changed-requirement tests
+│   └── requirements.txt
+└── frontend/
+
