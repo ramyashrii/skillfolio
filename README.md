@@ -1,5 +1,4 @@
 # skillfolio
-# ROLEQUEST
 
 **Track 4: Education, Skills and Jobs** | wHACKiest 2026
 
